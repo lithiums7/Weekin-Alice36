@@ -1,0 +1,6 @@
+if SHIELD_ALICE36
+
+config ZMK_KEYBOARD_NAME
+    default "Weekin Alice 36"
+
+endif
